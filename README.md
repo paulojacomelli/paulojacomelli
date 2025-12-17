@@ -13,14 +13,15 @@ Sou entusiasta de tecnologia, focado em desenvolvimento web e soluções digitai
 
 ### 🧠 Tecnologias que utilizo
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML5" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<div style="display: inline_block"><br> <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
+<img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+<img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+</div> <br> <!-- Gemini AI Studio (badge, padrão profissional) --> <img src="https://img.shields.io/badge/Gemini%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white">
 
 ---
 
@@ -37,22 +38,3 @@ Sou entusiasta de tecnologia, focado em desenvolvimento web e soluções digitai
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
-
----
-
-### 🐍 Minhas contribuições
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/paulojacomelli/paulojacomelli/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/paulojacomelli/paulojacomelli/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/paulojacomelli/paulojacomelli/output/github-contribution-grid-snake.svg"
-  />
-</picture>
