@@ -1,0 +1,12 @@
+{
+    "name": "paulojacomelli-profile",
+    "version": "0.1.3-beta",
+    "description": "Meu Perfil do GitHub",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Paulo Jacomelli",
+    "license": "ISC"
+}
