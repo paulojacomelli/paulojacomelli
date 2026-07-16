@@ -1,0 +1,28 @@
+{
+  "navLinks": [
+    {
+      "to": "home",
+      "text": "Início"
+    },
+    {
+      "to": "services",
+      "text": "Serviços"
+    },
+    {
+      "to": "portfolio",
+      "text": "Portfólio"
+    },
+    {
+      "to": "about",
+      "text": "Sobre"
+    },
+    {
+      "to": "skills",
+      "text": "Habilidades"
+    },
+    {
+      "to": "contact",
+      "text": "Contato"
+    }
+  ]
+}

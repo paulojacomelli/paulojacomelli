@@ -1,0 +1,28 @@
+{
+  "intro": "MINHAS \nHABILI\nDADES",
+  "intro2": "Conjunto de \ncompetências",
+  "descText": "Minhas competências envolvem a intersecção entre o pensamento estratégico analítico e o design criativo, focando na entrega de valor e resultados reais.",
+
+  "skillsProgress": [
+    {
+      "title": "Marketing Digital & Performance",
+      "percentage": 90
+    },
+    {
+      "title": "Design Gráfico & Branding",
+      "percentage": 85
+    },
+    {
+      "title": "Modelagem 3D & Archviz",
+      "percentage": 80
+    },
+    {
+      "title": "Inbound Marketing & Automação",
+      "percentage": 85
+    },
+    {
+      "title": "Design Audiovisual & Vídeo",
+      "percentage": 75
+    }
+  ]
+}

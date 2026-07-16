@@ -1,0 +1,61 @@
+{
+  "into": "PORT\nFÓL\nIO ",
+  "into2": "Confira meus \ntrabalhos recentes",
+  "portfolioItems": [
+    {
+      "className": "2x2",
+      "action": {
+        "type": "item",
+        "number": 1
+      },
+      "description": {
+        "text": "Modelagem de Produto",
+        "caption": "3D & VISUALIZAÇÃO"
+      }
+    },
+    {
+      "className": "1x1",
+      "action": {
+        "type": "item",
+        "number": 2
+      },
+      "description": {
+        "text": "Identidade de Marca",
+        "caption": "BRANDING & DESIGN"
+      }
+    },
+    {
+      "className": "1x2",
+      "action": {
+        "type": "item",
+        "number": 3
+      },
+      "description": {
+        "text": "Campanha de Growth",
+        "caption": "MARKETING PERFORMANCE"
+      }
+    },
+    {
+      "className": "1x1",
+      "action": {
+        "type": "popup",
+        "number": 1
+      },
+      "description": {
+        "text": "Maquete 3D & Archviz",
+        "caption": "MODELAGEM 3D"
+      }
+    },
+    {
+      "className": "2x1",
+      "action": {
+        "type": "popup",
+        "number": 2
+      },
+      "description": {
+        "text": "Vídeo Promocional",
+        "caption": "AUDIOVISUAL & MOTION"
+      }
+    }
+  ]
+}

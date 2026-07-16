@@ -1,0 +1,15 @@
+{
+  "mail": {
+    "to": "mailto:paulo@growthboost.com.br",
+    "text": "paulo@growthboost.com.br"
+  },
+  "phone": {
+    "to": "tel:+5517988211306",
+    "text": "(17) 98821-1306"
+  },
+  "info": "Catanduva, SP \nBrasil",
+  "author": {
+    "to": "https://linkedin.com/in/paulojacomelli",
+    "text": "Paulo Jacomelli"
+  }
+}

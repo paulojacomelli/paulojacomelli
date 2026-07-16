@@ -1,0 +1,44 @@
+{
+  "into": "O QUE \nEU \nFAÇO ",
+  "into2": " Minha lista \nde serviços",
+  "title": "Soluções completas e integradas de marketing e design para alavancar seu negócio",
+
+  "servicesBoxes": [
+    {
+      "imageAltText": "marketing-digital",
+      "servTitle": "Marketing Digital & Performance",
+      "servDesc": "Gestão de tráfego pago (Google Ads, Facebook Ads), growth hacking, análise de métricas e otimização de ROI para campanhas focadas em conversão.",
+      "className": "one_half"
+    },
+    {
+      "imageAltText": "design-3d",
+      "servTitle": "Modelagem 3D & Archviz",
+      "servDesc": "Criação tridimensional de produtos, maquetes eletrônicas, visualização de ambientes, renderizações realistas e tour virtuais interativos.",
+      "className": "one_half last"
+    },
+    {
+      "imageAltText": "branding",
+      "servTitle": "Branding & Design Gráfico",
+      "servDesc": "Criação de marcas, identidade visual corporativa, papelaria completa, design editorial e peças publicitárias digitais ou impressas.",
+      "className": "one_half"
+    },
+    {
+      "imageAltText": "inbound-marketing",
+      "servTitle": "Inbound & Automação",
+      "servDesc": "Planejamento de funis de vendas, estruturação de fluxos de e-mail marketing e nutrição de leads via ferramentas como RD Station e HubSpot.",
+      "className": "one_half last"
+    },
+    {
+      "imageAltText": "ecommerce",
+      "servTitle": "E-commerce & Web",
+      "servDesc": "Otimização de conversão, SEO (Search Engine Optimization) técnico, configuração e gerenciamento de plataformas de e-commerce como WooCommerce.",
+      "className": "one_half"
+    },
+    {
+      "imageAltText": "motion-design",
+      "servTitle": "Design Audiovisual & Motion",
+      "servDesc": "Edição de vídeos institucionais ou publicitários, pós-produção audiovisual e animações em Premiere Pro e After Effects.",
+      "className": "one_half last"
+    }
+  ]
+}
