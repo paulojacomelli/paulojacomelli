@@ -17,10 +17,8 @@ const app = initializeApp(firebaseConfig);
 // Initialize Analytics dynamically
 export const analytics = typeof window !== 'undefined' ? getAnalytics(app) : null;
 
-// VAPID keys for Web Push Notifications (FCM)
-export const vapidKeys = {
-  publicKey: "BKAkeL4GoTZAm7MWtC3-gO2SXLc-Gh-wAWeBAl1mFATjZwaBEz19tB3lfm02MoYHEwQv9C9vnohXtRX8c0PTRM4",
-  privateKey: "307i81GNXBdd_CW_oEbVb1dgksqjAtVBqT9f2h7DULU"
-};
+// VAPID public key for Web Push (FCM) on client side
+// Note: Private VAPID key is sensitive and must only be kept in backend environment variables.
+export const vapidPublicKey = "BKAkeL4GoTZAm7MWtC3-gO2SXLc-Gh-wAWeBAl1mFATjZwaBEz19tB3lfm02MoYHEwQv9C9vnohXtRX8c0PTRM4";
 
 export default app;
