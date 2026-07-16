@@ -19,10 +19,10 @@
   <br>
   <p align="center">
     <a href="https://github.com/paulojacomelli">
-      <img src="https://github-readme-stats.vercel.app/api?username=paulojacomelli&show_icons=true&theme=dracula&hide_border=true" alt="Stats" height="180" />
+      <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=paulojacomelli&show_icons=true&theme=dracula&hide_border=true" alt="Stats" height="180" />
     </a>
     <a href="https://github.com/paulojacomelli">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulojacomelli&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Languages" height="180" />
+      <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=paulojacomelli&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Languages" height="180" />
     </a>
   </p>
 </div>
